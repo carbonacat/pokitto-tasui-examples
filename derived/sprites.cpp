@@ -1,0 +1,1 @@
+__asm__(".global tasuiCharacter\ntasuiCharacter:\n.incbin \"sprites/TasuiCharacter.bin\"");
